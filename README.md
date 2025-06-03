@@ -6,7 +6,7 @@
 I am a **Ph.D. student** in the School of Artificial Intelligence and Automation at **Huazhong University of Science and Technology**. My research interests include **trustworthy AI** 🛡️, **physics-informed foundation models** 🧪 and **prognostic and health management (PHM)** 🔍.
 
 
-<details>
+<details open>
 <summary><h2 style="display: inline-block">🔗 Links</h2></summary>
 
 🆔 [![ORCID](https://img.shields.io/badge/ORCID-Connect-green?style=social&logo=orcid)](https://orcid.org/0009-0009-4777-5456)
@@ -15,7 +15,7 @@ I am a **Ph.D. student** in the School of Artificial Intelligence and Automation
 
 </details>
 
-<details>
+<details open>
 <summary><h2 style="display: inline-block">📊 Statistics</h2></summary>
 
 
