@@ -33,32 +33,6 @@ I am a **Ph.D. student** in the School of Artificial Intelligence and Automation
 </details>
 
 
-<h2 align="center">✨ Visitors</h2>
-
-<div align="center">
-
-### 👀 Github visitor count
-
-<a href="https://clustrmaps.com/site/1bq6p" title="Visit tracker"><img src="https://clustrmaps.com/map_v2.png?d=50xriIgyxQ1iyUIyLLeNS-NMsytm-KrZ5JZpwOGmBfw&cl=ffffff&w=a" /></a>
-
-
-![Nixie Counter](https://moe-counter.glitch.me/get/@Xuan423?theme=nixietube-1)
-
-
-### 🌐 Homepage visitor count
-
-<div align="center">
-<a href="https://clustrmaps.com/site/zuDpJ" title="Visit tracker">
-  <img src="https://clustrmaps.com/map_v2.png?d=zuDpJ5etKfqfgxUfT9DtytaR54mqkvdYGnihWXUaA_Q&cl=ffffff&w=a" alt="Visitor Map" />
-</a>
-</div>
-
-</div>
-
-<div align="center">
-<img src="https://moe-counter.glitch.me/get/@Xuan423.github.io?theme=nixietube-1" alt="Visitor Count" />
-</div>
-
 <!-- 
 🌟 Have a great day! Thanks for visiting my profile! 🌟
 -->
