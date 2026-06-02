@@ -22,7 +22,7 @@ I am a **Ph.D. student** in the School of Artificial Intelligence and Automation
 ###  📈 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xuan423&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="margin: 10px;" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Xuan423&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="margin: 10px;" />
 </div>
 
 ### 🔥 GitHub streak stats
